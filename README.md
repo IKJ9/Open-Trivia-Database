@@ -1,2 +1,2 @@
 # Open-Trivia-Database
-A simple project to practice API calls and OOP
+With the help of tkinter, a simple trivia game can be easily implemented in python using OOP of the question model, the logic behind question handling and the quiz interface.
